@@ -9,7 +9,7 @@ git remote add origin git@github.com:ivantay2003/AppiumPythonAndroid.git
 
 <br><br>
 To clone (or download):<br>
-https://github.com/ivantay2003/AppiumPythonAndroid.git
+git clone https://github.com/ivantay2003/AppiumPythonAndroid.git
 
 
 <br><br><br>
